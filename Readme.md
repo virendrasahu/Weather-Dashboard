@@ -49,9 +49,9 @@ weather-dashboard/
 ├── weather-icon.png   # Default icon
 
 🖼️ Screenshots
-![alt text](img/second.png)
+![alt text](img/first.png)
 
-![alt text](img/weather-icon.png)
+![alt text](img/second.png)
 
 📌 Future Improvements
 
